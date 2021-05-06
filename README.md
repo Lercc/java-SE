@@ -3,6 +3,9 @@
 - [Etapas de compilación Java](#etapas-de-compilación-java)
 - [Variables](#VARIABLES)
 - [Convención de nombres](#convención-de-nombres)
+- [Tipos de datos](#tipos-de-datos)
+- [Operadores](#operadores)
+
 
 ## JAVA-SE
 
@@ -65,7 +68,8 @@
     <img src="md/convencion-nombres-ii.jpg" alt="img">
 </div> 
 
-## TIPO DE DATOS - (java class: DataType)
+## TIPO DE DATOS
+### (java class: DataType)
 ### TIPO DE DATOS NUMÉRICOS
 <div align="center">
     <img src="md/tipos-datos-numericos.jpg" alt="img">
