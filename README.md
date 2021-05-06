@@ -5,6 +5,7 @@
 - [Convención de nombres](#convención-de-nombres)
 - [Tipos de datos](#tipos-de-datos)
 - [Operadores](#operadores)
+- [Casting de variables](#casting-de-variables)
 
 
 ## JAVA-SE
@@ -79,7 +80,7 @@
     <img src="md/tipos-datos-numericos-ii.jpg" alt="img">
 </div>
 
-### TIPO DE DATOS CHAR Y BOOLEAN
+### TIPOS DE DATOS CHAR Y BOOLEAN
 <div align="center">
     <img src="md/tipo-datos-char.jpg" alt="img">
 </div>
@@ -99,4 +100,18 @@
 </div>
 <div align="center">
     <img src="md/operador-increm-decrem-pos-pre.jpg" alt="img">
+</div>
+
+## CASTING DE VARIABLES
+### CAST : EXACTITUD - ESTIMACIÓN 
+<div align="center">
+    <img src="md/casteo-de-variables.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="md/cast-int.jpg" alt="img">
+</div>
+
+### CAST : ENTRE TIPOS DE DATOS
+<div align="center">
+    <img src="md/cast-tipos-datos.jpg" alt="img">
 </div>
