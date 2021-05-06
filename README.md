@@ -33,7 +33,7 @@
     <img src="md/etapas-javac.jpg" alt="img">
 </div>
 
-      El compilador javac compila los archivos ".java" a archivos ".class" en lenguaje máquina(byteCode)
+      El compilador "JAVAC" compila los archivos ".java" a archivos ".class" en lenguaje máquina(byteCode)
 
 <div align="center">
     <img src="md/naturaleza-java.jpg" alt="img">
@@ -41,3 +41,10 @@
 
       "JAVAC" -> compila los archivos .java
       "JVM" -> interpreta los archivos .class
+
+## VARIABLE
+<div align="center">
+    <img src="md/variable.jpg" alt="img">
+</div>
+
+      Es un espacion en memoria al que le asignamos un contenido/valor
