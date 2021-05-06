@@ -69,10 +69,10 @@
 
 ### TIPO DE DATOS CHAR Y BOOLEAN
 <div align="center">
-    <img src="md/tipos-datos-char.jpg" alt="img">
+    <img src="md/tipo-datos-char.jpg" alt="img">
 </div>
 <div align="center">
-    <img src="md/tipos-datos-booleanos.jpg" alt="img">
+    <img src="md/tipo-datos-booleanos.jpg" alt="img">
 </div>
 
 ## OPERADORES
