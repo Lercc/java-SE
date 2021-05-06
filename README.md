@@ -1,6 +1,8 @@
 ## INDEX
 - [Java SE](#JAVA-SE)
 - [Etapas de compilación Java](#ETAPAS DE COMPILACIÓN JAVA)
+- [Variables](#VARIABLES)
+- [Convención de nombres](#CONVENCIÓN DE NOMBRES)
 
 ## JAVA-SE
 
@@ -28,7 +30,7 @@
       Sun Microsystems - OpenJDK :
       -> Es la versión open-source de Java SE Plataform Edition
       
- ## ETAPAS DE COMPILACIÓN JAVA
+## ETAPAS DE COMPILACIÓN JAVA
 <div align="center">
     <img src="./md/etapas-java.jpg" alt="img">
 </div>
@@ -46,7 +48,7 @@
       "JAVAC" -> compila los archivos .java
       "JVM" -> interpreta los archivos .class
 
-## VARIABLE- (java class: Variables)
+## VARIABLES - (java class: Variables)
 <div align="center">
     <img src="md/variable.jpg" alt="img">
 </div>
