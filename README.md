@@ -74,3 +74,17 @@
 <div align="center">
     <img src="md/tipos-datos-booleanos.jpg" alt="img">
 </div>
+
+## OPERADORES
+### OPERADOR DE ASIGNACIÓN
+<div align="center">
+    <img src="md/operador-asignacion.jpg" alt="img">
+</div>
+
+### OPERADOR DE INCREMENTO Y DECREMENTO - (java class: IncrementDecrement)
+<div align="center">
+    <img src="md/operador-increm-decrem.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="md/operador-increm-decrem-pos-pre.jpg" alt="img">
+</div>
