@@ -1,8 +1,8 @@
 ## INDEX
 - [Java SE](#JAVA-SE)
-- [Etapas de compilación Java](#ETAPAS DE COMPILACIÓN JAVA)
+- [Etapas de compilación Java](#ETAPAS DE COMPILACION JAVA)
 - [Variables](#VARIABLES)
-- [Convención de nombres](#CONVENCIÓN DE NOMBRES)
+- [Convención de nombres](#CONVENCION DE NOMBRES)
 
 ## JAVA-SE
 
@@ -48,7 +48,8 @@
       "JAVAC" -> compila los archivos .java
       "JVM" -> interpreta los archivos .class
 
-## VARIABLES - (java class: Variables)
+## VARIABLES 
+### (java class: Variables)
 <div align="center">
     <img src="md/variable.jpg" alt="img">
 </div>
