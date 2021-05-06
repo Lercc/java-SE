@@ -48,3 +48,11 @@
 </div>
 
       Es un espacion en memoria al que le asignamos un contenido/valor
+
+## CONVENCIÓN DE NOMBRES
+<div align="center">
+    <img src="md/convencion-nombres.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="md/convencion-nombres-ii.jpg" alt="img">
+</div>
