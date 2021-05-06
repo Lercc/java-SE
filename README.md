@@ -6,6 +6,7 @@
 - [Tipos de datos](#tipos-de-datos)
 - [Operadores](#operadores)
 - [Casting de variables](#casting-de-variables)
+- [JAR](#jar)
 
 
 ## JAVA-SE
@@ -115,3 +116,16 @@
 <div align="center">
     <img src="md/cast-tipos-datos.jpg" alt="img">
 </div>
+
+## JAR
+<div align="center">
+    <img src="md/jar.jpg" alt="img">
+</div>
+
+      JavaARchive -> contiene el codigo compilado en byteCode comprimido
+      
+       Para crearlo primero tienes que generar el Arfifact : File>ProjextStructure>Artifacts
+       Luego  Build>Build Artifact
+       
+       luego ir a la ruta out\artifacts y correr en la termicar con: java -jar jarName
+       
