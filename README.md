@@ -69,9 +69,9 @@
     <img src="md/convencion-nombres-ii.jpg" alt="img">
 </div> 
 
-## TIPO DE DATOS
+## TIPOS DE DATOS
 ### (java class: DataType)
-### TIPO DE DATOS NUMÉRICOS
+### TIPOS DE DATOS NUMÉRICOS
 <div align="center">
     <img src="md/tipos-datos-numericos.jpg" alt="img">
 </div>
