@@ -22,6 +22,7 @@ public class DataTypes {
         long nL = 1234567890123456789L;
 
 
+
         // PUNTO FLOTANTE
         // float     ----> 4 bytes    |  1.40419846432481707e-45 a 3.40282346638528860e+38
         // double    ----> 8 byte     |  4.970656445841246544e-324d a 1.79769313486231570e+308d
@@ -31,5 +32,17 @@ public class DataTypes {
 
         // Java requiere que en variables de tipo float se coloque una "F" al final del valor de la variable.
         float nF = 123.456F;
+
+
+
+        // DATOS CHAR
+        // solo puede contener a un solo dígito y siempre va en comillas simples
+        char vChar = 's';
+
+
+
+        // DATOS BOOLEAN
+        // Sus valores pueden ser o VERDADERO o FALSO
+        boolean vBoolean = false;
     }
 }

@@ -57,11 +57,20 @@
     <img src="md/convencion-nombres-ii.jpg" alt="img">
 </div> 
 
-## TIPO DE DATOS NUMÉRICOS - (java class: DataType) 
+## TIPO DE DATOS - (java class: DataType)
+### TIPO DE DATOS NUMÉRICOS
 <div align="center">
     <img src="md/tipos-datos-numericos.jpg" alt="img">
 </div>
 
 <div align="center">
     <img src="md/tipos-datos-numericos-ii.jpg" alt="img">
+</div>
+
+### TIPO DE DATOS CHAR Y BOOLEAN
+<div align="center">
+    <img src="md/tipos-datos-char.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="md/tipos-datos-booleanos.jpg" alt="img">
 </div>
