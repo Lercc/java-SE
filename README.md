@@ -122,10 +122,10 @@
     <img src="md/jar.jpg" alt="img">
 </div>
 
-      JavaARchive -> contiene el codigo compilado en byteCode comprimido
+      JavaARchive -> contiene el código compilado en byteCode comprimido
       
-       Para crearlo primero tienes que generar el Arfifact : File>ProjextStructure>Artifacts
+       Para crearlo primero tienes que generar el Arfifact : File>ProjectStructure>Artifacts
        Luego  Build>Build Artifact
        
-       luego ir a la ruta out\artifacts y correr en la termicar con: java -jar jarName
+       luego ir a la ruta out\artifacts y correr en la termical con: java -jar jarName
        
