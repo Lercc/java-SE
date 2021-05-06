@@ -42,17 +42,26 @@
       "JAVAC" -> compila los archivos .java
       "JVM" -> interpreta los archivos .class
 
-## VARIABLE
+## VARIABLE- (java class: Variables)
 <div align="center">
     <img src="md/variable.jpg" alt="img">
 </div>
 
       Es un espacio en memoria al que le asignamos un contenido/valor
 
-## CONVENCIÓN DE NOMBRES
+## CONVENCIÓN DE NOMBRES - (java class: NamingJava)
 <div align="center">
     <img src="md/convencion-nombres.jpg" alt="img">
 </div>
 <div align="center">
     <img src="md/convencion-nombres-ii.jpg" alt="img">
+</div> 
+
+## TIPO DE DATOS NUMÉRICOS - (java class: DataType) 
+<div align="center">
+    <img src="md/tipos-datos-numericos.jpg" alt="img">
+</div>
+
+<div align="center">
+    <img src="md/tipos-datos-numericos-ii.jpg" alt="img">
 </div>
