@@ -1,8 +1,8 @@
 ## INDEX
 - [Java SE](#JAVA-SE)
-- [Etapas de compilación Java](#ETAPAS DE COMPILACION JAVA)
+- [Etapas de compilación Java](#etapas-de-compilación-java)
 - [Variables](#VARIABLES)
-- [Convención de nombres](#CONVENCION DE NOMBRES)
+- [Convención de nombres](#convención-de-nombres)
 
 ## JAVA-SE
 
@@ -48,7 +48,7 @@
       "JAVAC" -> compila los archivos .java
       "JVM" -> interpreta los archivos .class
 
-## VARIABLES 
+## VARIABLES
 ### (java class: Variables)
 <div align="center">
     <img src="md/variable.jpg" alt="img">
@@ -56,7 +56,8 @@
 
       Es un espacio en memoria al que le asignamos un contenido/valor
 
-## CONVENCIÓN DE NOMBRES - (java class: NamingJava)
+## CONVENCIÓN DE NOMBRES
+### (java class: NamingJava)
 <div align="center">
     <img src="md/convencion-nombres.jpg" alt="img">
 </div>
