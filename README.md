@@ -47,7 +47,7 @@
     <img src="md/variable.jpg" alt="img">
 </div>
 
-      Es un espacion en memoria al que le asignamos un contenido/valor
+      Es un espacio en memoria al que le asignamos un contenido/valor
 
 ## CONVENCIÓN DE NOMBRES
 <div align="center">
