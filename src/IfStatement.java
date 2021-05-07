@@ -8,6 +8,8 @@ public class IfStatement {
         if (isBlueetoorthEnabled) {
             fileSended++;
             System.out.println("3 Files sended ");
+        } else {
+            System.out.println("Error files can not sended");
         }
     }
 }
