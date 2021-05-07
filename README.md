@@ -103,6 +103,23 @@
     <img src="md/operador-increm-decrem-pos-pre.jpg" alt="img">
 </div>
 
+### OPERADORES DE EQUIDAD
+<div align="center">
+    <img src="md/operador-equidad.jpg" alt="img">
+</div>
+
+### OPERADORES RELACIONALES
+<div align="center">
+    <img src="md/operador-relacional.jpg" alt="img">
+</div>
+
+### OPERADORES LÓGICOS
+<div align="center">
+    <img src="md/operador-logico.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="md/operador-logico-ii.jpg" alt="img">
+</div>
 ## CASTING DE VARIABLES
 ### CAST : EXACTITUD - ESTIMACIÓN 
 <div align="center">
@@ -128,4 +145,3 @@
        Luego  Build>Build Artifact
        
        luego ir a la ruta out\artifacts y correr en la termical con: java -jar jarName
-       
