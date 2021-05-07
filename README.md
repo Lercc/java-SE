@@ -146,3 +146,8 @@
        Luego  Build>Build Artifact
        
        luego ir a la ruta out\artifacts y correr en la termical con: java -jar jarName
+
+## FUNCIONES
+<div align="center">
+    <img src="md/funciones.jpg" alt="img">
+</div>
