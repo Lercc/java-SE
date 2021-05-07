@@ -7,6 +7,7 @@
 - [Operadores](#operadores)
 - [Casting de variables](#casting-de-variables)
 - [JAR](#jar)
+- [funciones](#funciones)
 
 
 ## JAVA-SE
