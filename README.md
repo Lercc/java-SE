@@ -120,6 +120,7 @@
 <div align="center">
     <img src="md/operador-logico-ii.jpg" alt="img">
 </div>
+
 ## CASTING DE VARIABLES
 ### CAST : EXACTITUD - ESTIMACIÓN 
 <div align="center">
